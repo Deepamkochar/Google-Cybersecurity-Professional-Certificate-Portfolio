@@ -1,6 +1,7 @@
 # Google-Cybersecurity-Professional-Certificate-Portfolio
 This repository contains a portfolio of projects and assignments completed as part of the Google Cybersecurity Professional Certificate on Coursera. The certificate is designed to equip learners with fundamental cybersecurity skills and knowledge, providing an entry-level foundation for a career in the field.
 
+
 **About the Google Cybersecurity Professional Certificate**
 The Google Cybersecurity Professional Certificate program offers a comprehensive curriculum to help learners understand the core principles of cybersecurity. This includes network security, systems security, risk management, incident response, and more. Through hands-on labs and real-world applications, learners gain the practical experience necessary for cybersecurity roles such as security analyst, security administrator, and network engineer.
 
@@ -13,6 +14,7 @@ Table of Contents
 
 
 Overview of Projects
+
 This portfolio includes various projects and exercises that demonstrate the application of cybersecurity concepts, such as:
 
     Network Security: Implementing secure communication protocols, identifying vulnerabilities, and analyzing network traffic.
@@ -21,7 +23,6 @@ This portfolio includes various projects and exercises that demonstrate the appl
     Risk Management: Assessing risks, understanding threat models, and creating risk mitigation strategies.
     Security Monitoring and Auditing: Setting up and analyzing security logs for potential breaches.
     
-These projects serve as a practical showcase of the skills and concepts learned throughout the course.
 
 
 Projects in This Repository
